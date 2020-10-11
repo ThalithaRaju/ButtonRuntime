@@ -1,0 +1,10 @@
+C:\Users\Thalitha\source\repos\ButtonRuntime\ButtonRuntime\bin\Debug\ButtonRuntime.exe.config
+C:\Users\Thalitha\source\repos\ButtonRuntime\ButtonRuntime\bin\Debug\ButtonRuntime.exe
+C:\Users\Thalitha\source\repos\ButtonRuntime\ButtonRuntime\bin\Debug\ButtonRuntime.pdb
+C:\Users\Thalitha\source\repos\ButtonRuntime\ButtonRuntime\obj\Debug\ButtonRuntime.csprojAssemblyReference.cache
+C:\Users\Thalitha\source\repos\ButtonRuntime\ButtonRuntime\obj\Debug\ButtonRuntime.Form1.resources
+C:\Users\Thalitha\source\repos\ButtonRuntime\ButtonRuntime\obj\Debug\ButtonRuntime.Properties.Resources.resources
+C:\Users\Thalitha\source\repos\ButtonRuntime\ButtonRuntime\obj\Debug\ButtonRuntime.csproj.GenerateResource.cache
+C:\Users\Thalitha\source\repos\ButtonRuntime\ButtonRuntime\obj\Debug\ButtonRuntime.csproj.CoreCompileInputs.cache
+C:\Users\Thalitha\source\repos\ButtonRuntime\ButtonRuntime\obj\Debug\ButtonRuntime.exe
+C:\Users\Thalitha\source\repos\ButtonRuntime\ButtonRuntime\obj\Debug\ButtonRuntime.pdb
